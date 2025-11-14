@@ -4,6 +4,14 @@ A web app for symbolic intelligence training, created for personal learning purp
 
 The core idea is to build a full-stack web application using Prolog as the backend language, leveraging its stengths in symbolic reasoning and knowledge representation. The frontend is built with standard web technologies (HTML, CSS, JavaScript) to provide a user-friendly interface.
 
+Copyright (C)  2025  porcielf.
+    Permission is granted to copy, distribute and/or modify this document
+    under the terms of the GNU Free Documentation License, Version 1.3
+    or any later version published by the Free Software Foundation;
+    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+    A copy of the license is included in the section entitled "GNU
+    Free Documentation License".
+
 ## Directory Tree
 
 ```
