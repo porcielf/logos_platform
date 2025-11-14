@@ -2,6 +2,8 @@
 
 A web app for symbolic intelligence training, created for personal learning purposes. The core idea is to allow the user to insert data about themself and get insights from the app. A self-hacking app.
 
+The core idea is to build a full-stack web application using Prolog as the backend language, leveraging its stengths in symbolic reasoning and knowledge representation. The frontend is built with standard web technologies (HTML, CSS, JavaScript) to provide a user-friendly interface.
+
 ## Directory Tree
 
 ```
@@ -153,5 +155,3 @@ project-root/
       ├─ deployment.yml
       └─ service.yml
 ```
-
-
