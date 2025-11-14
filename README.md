@@ -4,6 +4,7 @@ A web app for symbolic intelligence training, created for personal learning purp
 
 ## Directory Tree
 
+```
 project-root/
 ├─ README.md
 ├─ LICENSE
@@ -151,5 +152,6 @@ project-root/
    └─ k8s/
       ├─ deployment.yml
       └─ service.yml
+```
 
 
