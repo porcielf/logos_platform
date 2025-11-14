@@ -1,12 +1,12 @@
-#screen-simulator {
+.screen-simulator {
 	display: block;
-	position: ;
+	position: fixed;
 	top: 0;
 	left: 0;
 	z-index: 9999;
 	width: 100vw;
 	height: 100vh;
-	opacity: 0.4;
+	opacity: 0.25;
 	pointer-events: none;
 	background: #182C25;
 }
